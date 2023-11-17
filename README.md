@@ -1,2 +1,1 @@
-# helloworld
-😈
+Hello world package
